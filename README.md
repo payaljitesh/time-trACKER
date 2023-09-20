@@ -1,4 +1,4 @@
 # time-trACKER
-gooo afternooon
+good night
 hello
 hii
